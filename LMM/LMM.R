@@ -42,8 +42,41 @@ em$contrasts
 
 model_simple = lmer(y ~ time * treatment + (time|Therapist/subject), data = d)
 
-ChickWeight
 
-# chi-square-likelihood-ratio-test
+# Übung -------------------------------------------------------------------
+
+
+ChickWeight
+bmi
+
+# Gibt es innerhalb der Diet-Gruppen signfikante Gewichtszunahmen?
+
+# Unterscheiden sich die Diet-Gruppen voneinander (nehmen einige stärker zu als andere)?
+
+ggplot(data = ChickWeight, aes(x = Time, y = weight, colour = Diet)) +
+  stat_summary() +
+  geom_smooth(method = "lm", formula= y ~ x + I(x^2) ) +
+geom_smooth(method = "lm", colour = "red")
+
+
+mod1 = lmer(weight ~ Time * Diet + (1|Chick), data = ChickWeight)
+  
+mod2 = lmer(weight ~ Time * Diet + (Time|Chick), data = ChickWeight)
+
+anova(mod1, mod2)
+
+em = emtrends(object = mod2, specs = pairwise ~ Diet, var = "Time", adjust = "none")
+
+anova(mod2)
+
+effectsize::omega_squared(mod2)
+
+eff_size(em, sigma = sigma(mod2), edf = 45)
+
+
+
+
+
+
 
 
