@@ -40,3 +40,10 @@ levels(starwars$sex) = c("hermaphroditic", "female", "male", "nichts")
 
 mtcars$gear = factor(mtcars$gear, levels = 3:5, labels = c("3 Gänge", "4 Gänge", "5 Gänge"))
 
+for (ch in unique(ChickWeight$Chick)) {
+  print(ch)
+  ChickWeight$weight[ChickWeight$Chick == ch] = ChickWeight$weight[ChickWeight$Chick == ch] - mean(ChickWeight$weight[ChickWeight$Chick == ch], na.rm = T)
+}
+
+
+
