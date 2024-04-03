@@ -26,4 +26,4 @@ summary(fit)
 
 library(semPaths)
 
-  semPaths(fit, whatLabels = "est")
+semPaths(fit, whatLabels = "est")
