@@ -40,10 +40,35 @@ levels(starwars$sex) = c("hermaphroditic", "female", "male", "nichts")
 
 mtcars$gear = factor(mtcars$gear, levels = 3:5, labels = c("3 Gänge", "4 Gänge", "5 Gänge"))
 
-for (ch in unique(ChickWeight$Chick)) {
-  print(ch)
-  ChickWeight$weight[ChickWeight$Chick == ch] = ChickWeight$weight[ChickWeight$Chick == ch] - mean(ChickWeight$weight[ChickWeight$Chick == ch], na.rm = T)
+
+vector = rep(NA, length(unique(ChickWeight$Chick))) 
+
+for (i in 1:nrow(ChickWeight)) {
+  if(ChickWeight$Time[i] == 2){
+    print(ChickWeight$weight[i])
+  }else{
+    print("Das war nicht Tag 2.")
+  }
 }
+
+liste = list()
+
+ChickWeight$individual_mean = NA
+
+
+for(i in unique(ChickWeight$Chick)){
+  
+  #position = which(unique(ChickWeight$Chick) == i)
+  
+  ChickWeight$individual_mean[ChickWeight$Chick == i]
+  
+  liste[[i]] = ggplot(ChickWeight[ChickWeight$Chick ==i,], aes(x = weight)) +
+    geom_histogram()
+    
+}
+
+
+
 
 
 
