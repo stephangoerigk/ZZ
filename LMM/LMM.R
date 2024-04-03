@@ -4,7 +4,7 @@ library(lmerTest)
 library(emmeans)
 library(flextable)
 
-# intention-to-treat
+# intention-to-treat.
 # per-protocol
 
 d = read.csv(file = "LMM/lmer_data.csv")
