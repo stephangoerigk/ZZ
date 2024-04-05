@@ -19,7 +19,7 @@ Y ~ b*M
 
 ab := a*b
 total := c + a*b
-" 
+"
 
 fit = lavaan::sem(mod, data = data, se  = "bootstrap", bootstrap = 1001)
 summary(fit)

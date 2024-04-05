@@ -1,0 +1,392 @@
+"";"ID";"PD1_t";"Fu_C_PD1";"Fu_C_PD2";"Fu_C_ZD1";"Fu_C_ZD2";"Fu_C_ZD3";"fu_subjectADc";"fu_TrialADc";"fu_ADc";"fu_keinec"
+"1";21001;"SepAD";"Spezifische Phobie";"keine";"keine";"keine";"keine";"No";"Yes";"Yes";"No"
+"2";21002;"SAD";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"3";21003;"SepAD";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"4";21004;"SepAD";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"5";21005;"SepAD";NA;NA;NA;NA;NA;NA;NA;NA;NA
+"6";21006;"SepAD";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"7";21007;"SP";NA;NA;NA;NA;NA;NA;NA;NA;NA
+"8";21009;"SepAD";NA;NA;NA;NA;NA;NA;NA;NA;NA
+"9";21014;"SepAD";NA;NA;NA;NA;NA;NA;NA;NA;NA
+"10";21015;"SAD";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"11";21017;"SAD";NA;NA;NA;NA;NA;NA;NA;NA;NA
+"12";21018;"SepAD";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"13";21019;"SAD";NA;NA;NA;NA;NA;NA;NA;NA;NA
+"14";21020;"SepAD";NA;NA;NA;NA;NA;NA;NA;NA;NA
+"15";21021;"SepAD";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"16";21022;"SP";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"17";21024;"SP";NA;NA;NA;NA;NA;NA;NA;NA;NA
+"18";21025;"SepAD";NA;NA;NA;NA;NA;NA;NA;NA;NA
+"19";22002;"SepAD";NA;NA;NA;NA;NA;NA;NA;NA;NA
+"20";22003;"SP";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"21";22004;"SepAD";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"22";22005;"SepAD";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"23";22006;"SAD";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"24";22007;"SP";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"25";22008;"SepAD";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"26";22009;"SepAD";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"27";22010;"SAD";"ADHS";"keine";"keine";"keine";"keine";"No";"No";"No";"No"
+"28";22011;"SepAD";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"29";22012;"SAD";NA;NA;NA;NA;NA;NA;NA;NA;NA
+"30";22013;"SP";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"31";22014;"SepAD";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"32";22017;"SAD";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"33";22018;"SAD";"Soziale Angststörung";"keine";"keine";"keine";"keine";"Yes";"Yes";"Yes";"No"
+"34";22019;"SP";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"35";22020;"SAD";"Soziale Angststörung";"keine";"keine";"keine";"keine";"Yes";"Yes";"Yes";"No"
+"36";22021;"SP";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"37";22022;"SAD";"Generalisierte Angststörung";"keine";"keine";"keine";"keine";"No";"No";"Yes";"No"
+"38";22023;"SAD";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"39";22024;"SepAD";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"40";22025;"SepAD";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"41";22026;"SepAD";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"42";22027;"SP";"Soziale Angststörung";"keine";"ADHS";"keine";"keine";"No";"Yes";"Yes";"No"
+"43";22028;"SP";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"44";22029;"SAD";NA;NA;NA;NA;NA;NA;NA;NA;NA
+"45";22030;"SAD";"Soziale Angststörung";"keine";"keine";"keine";"keine";"Yes";"Yes";"Yes";"No"
+"46";22031;"SP";"Soziale Angststörung";"Spezifische Phobie";"keine";"keine";"keine";"Yes";"Yes";"Yes";"No"
+"47";22032;"SP";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"48";22033;"SP";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"49";22034;"SAD";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"50";22035;"SP";"Spezifische Phobie";"keine";"Soziale Angststörung";"keine";"keine";"Yes";"Yes";"Yes";"No"
+"51";22036;"SP";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"52";22037;"SAD";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"53";22038;"SAD";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"54";22039;"SAD";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"55";22040;"SepAD";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"56";22041;"SAD";NA;NA;NA;NA;NA;NA;NA;NA;NA
+"57";22042;"SepAD";NA;NA;NA;NA;NA;NA;NA;NA;NA
+"58";22043;"SepAD";NA;NA;NA;NA;NA;NA;NA;NA;NA
+"59";22044;"SAD";"Soziale Angststörung";"keine";"Spezifische Phobie";"Oppositionelles Trotzverhalten";"keine";"Yes";"Yes";"Yes";"No"
+"60";22045;"SAD";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"61";22046;"SAD";"Soziale Angststörung";"keine";"keine";"keine";"keine";"Yes";"Yes";"Yes";"No"
+"62";22047;"SepAD";NA;NA;NA;NA;NA;NA;NA;NA;NA
+"63";22048;"SAD";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"64";22049;"SAD";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"65";22050;"SP";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"66";22051;"SAD";"Dhysthyme Störung";"Soziale Angststörung";"keine";"keine";"keine";"Yes";"Yes";"Yes";"No"
+"67";22052;"SepAD";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"68";22053;"SepAD";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"69";22054;"SP";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"70";22055;"SepAD";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"71";22056;"SP";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"72";22057;"SepAD";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"73";22058;"SepAD";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"74";22059;"SAD";"Soziale Angststörung";"Dhysthyme Störung";"Generalisierte Angststörung";"keine";"keine";"Yes";"Yes";"Yes";"No"
+"75";22060;"SAD";"Trennungsangst";"Spezifische Phobie";"Soziale Angststörung";"keine";"keine";"Yes";"Yes";"Yes";"No"
+"76";22061;"SP";NA;NA;NA;NA;NA;NA;NA;NA;NA
+"77";22062;"SepAD";NA;NA;NA;NA;NA;NA;NA;NA;NA
+"78";22063;"SP";NA;NA;NA;NA;NA;NA;NA;NA;NA
+"79";22064;"SP";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"80";22065;"SP";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"81";22066;"SepAD";"Major Depression";"Trennungsangst";"keine";"keine";"keine";"Yes";"Yes";"Yes";"No"
+"82";22067;"SP";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"83";22068;"SepAD";"Trennungsangst";"Spezifische Phobie";"keine";"keine";"keine";"Yes";"Yes";"Yes";"No"
+"84";22069;"SepAD";"Trennungsangst";"keine";"keine";"keine";"keine";"Yes";"Yes";"Yes";"No"
+"85";22070;"SP";"Spezifische Phobie";"Spezifische Phobie";"keine";"keine";"keine";"Yes";"Yes";"Yes";"No"
+"86";22072;"SP";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"87";22073;"SepAD";"Spezifische Phobie";"keine";"keine";"keine";"keine";"No";"Yes";"Yes";"No"
+"88";22075;"SP";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"89";22076;"SepAD";"Generalisierte Angststörung";"keine";"keine";"keine";"keine";"No";"No";"Yes";"No"
+"90";22077;"SepAD";"Trennungsangst";"Spezifische Phobie";"Spezifische Phobie";"keine";"keine";"Yes";"Yes";"Yes";"No"
+"91";22078;"SepAD";"Spezifische Phobie";"keine";"Trennungsangst";"keine";"keine";"Yes";"Yes";"Yes";"No"
+"92";22079;"SAD";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"93";22080;"SepAD";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"94";22081;"SepAD";"Spezifische Phobie";"keine";"keine";"keine";"keine";"No";"Yes";"Yes";"No"
+"95";22082;"SAD";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"96";22083;"SP";"Spezifische Phobie";"keine";"keine";"keine";"keine";"Yes";"Yes";"Yes";"No"
+"97";22084;"SepAD";NA;NA;NA;NA;NA;NA;NA;NA;NA
+"98";22085;"SAD";NA;NA;NA;NA;NA;NA;NA;NA;NA
+"99";22086;"SAD";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"100";22088;"SepAD";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"101";22089;"SP";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"102";22090;"SP";"Major Depression";"keine";"keine";"keine";"keine";"No";"No";"No";"No"
+"103";22091;"SAD";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"104";22092;"SP";NA;NA;NA;NA;NA;NA;NA;NA;NA
+"105";22093;"SAD";NA;NA;NA;NA;NA;NA;NA;NA;NA
+"106";22094;"SP";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"107";22095;"SepAD";"Trennungsangst";"keine";"keine";"keine";"keine";"Yes";"Yes";"Yes";"No"
+"108";22096;"SP";"Anpassungstörung";"keine";"keine";"keine";"keine";"No";"No";"No";"No"
+"109";22097;"SP";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"110";22098;"SP";"Enuresis";"keine";"Spezifische Phobie";"keine";"keine";"Yes";"Yes";"Yes";"No"
+"111";22099;"SP";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"112";22101;"SP";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"113";22102;"SAD";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"114";22103;"SAD";NA;NA;NA;NA;NA;NA;NA;NA;NA
+"115";22104;"SepAD";"Spezifische Phobie";"keine";"keine";"keine";"keine";"No";"Yes";"Yes";"No"
+"116";22105;"SAD";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"117";22106;"SAD";"Soziale Angststörung";"keine";"Generalisierte Angststörung";"keine";"keine";"Yes";"Yes";"Yes";"No"
+"118";22107;"SAD";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"119";22108;"SAD";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"120";22110;"SAD";NA;NA;NA;NA;NA;NA;NA;NA;NA
+"121";22111;"SP";NA;NA;NA;NA;NA;NA;NA;NA;NA
+"122";22112;"SepAD";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"123";22113;"SepAD";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"124";22114;"SepAD";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"125";22115;"SP";NA;NA;NA;NA;NA;NA;NA;NA;NA
+"126";22116;"SepAD";NA;NA;NA;NA;NA;NA;NA;NA;NA
+"127";22117;"SP";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"128";22118;"SP";"Spezifische Phobie";"keine";"keine";"keine";"keine";"Yes";"Yes";"Yes";"No"
+"129";22119;"SP";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"130";22120;"SAD";"Soziale Angststörung";"keine";"keine";"keine";"keine";"Yes";"Yes";"Yes";"No"
+"131";22121;"SepAD";"Trennungsangst";"keine";"keine";"keine";"keine";"Yes";"Yes";"Yes";"No"
+"132";22122;"SepAD";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"133";22123;"SAD";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"134";22124;"SAD";NA;NA;NA;NA;NA;NA;NA;NA;NA
+"135";22125;"SAD";"Soziale Angststörung";"Spezifische Phobie";"keine";"keine";"keine";"Yes";"Yes";"Yes";"No"
+"136";22126;"SP";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"137";22127;"SepAD";"Trennungsangst";"keine";"keine";"keine";"keine";"Yes";"Yes";"Yes";"No"
+"138";22128;"SAD";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"139";22129;"SepAD";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"140";22130;"SepAD";"Trennungsangst";"Vorübergehende Ticstörung";"keine";"keine";"keine";"Yes";"Yes";"Yes";"No"
+"141";22131;"SP";NA;NA;NA;NA;NA;NA;NA;NA;NA
+"142";22132;"SP";"Trennungsangst";"keine";"Spezifische Phobie";"Spezifische Phobie";"Enuresis";"Yes";"Yes";"Yes";"No"
+"143";22133;"SP";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"144";22134;"SP";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"145";22135;"SP";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"146";22136;"SepAD";"Major Depression";"keine";"Trennungsangst";"keine";"keine";"Yes";"Yes";"Yes";"No"
+"147";22137;"SepAD";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"148";22138;"SP";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"149";22139;"SP";NA;NA;NA;NA;NA;NA;NA;NA;NA
+"150";22140;"SAD";NA;NA;NA;NA;NA;NA;NA;NA;NA
+"151";22141;"SepAD";NA;NA;NA;NA;NA;NA;NA;NA;NA
+"152";22142;"SAD";"Soziale Angststörung";"keine";"keine";"keine";"keine";"Yes";"Yes";"Yes";"No"
+"153";22143;"SAD";"Soziale Angststörung";"keine";"Anorexia nervosa";"keine";"keine";"Yes";"Yes";"Yes";"No"
+"154";22144;"SAD";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"155";22145;"SP";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"156";22146;"SAD";NA;NA;NA;NA;NA;NA;NA;NA;NA
+"157";22148;"SepAD";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"158";22149;"SAD";"Soziale Angststörung";"Primäre Insomnie";"keine";"keine";"keine";"Yes";"Yes";"Yes";"No"
+"159";22150;"SP";"Spezifische Phobie";"keine";"keine";"keine";"keine";"Yes";"Yes";"Yes";"No"
+"160";22151;"SepAD";"Trennungsangst";"keine";"keine";"keine";"keine";"Yes";"Yes";"Yes";"No"
+"161";22152;"SepAD";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"162";22153;"SepAD";NA;NA;NA;NA;NA;NA;NA;NA;NA
+"163";22154;"SAD";NA;NA;NA;NA;NA;NA;NA;NA;NA
+"164";22155;"SP";NA;NA;NA;NA;NA;NA;NA;NA;NA
+"165";22156;"SP";"Spezifische Phobie";"keine";"keine";"keine";"keine";"Yes";"Yes";"Yes";"No"
+"166";22157;"SP";"Zwangsstörung";"keine";"Generalisierte Angststörung";"keine";"keine";"No";"No";"Yes";"No"
+"167";22158;"SP";"Spezifische Phobie";"keine";"keine";"keine";"keine";"Yes";"Yes";"Yes";"No"
+"168";22159;"SP";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"169";22160;"SP";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"170";22161;"SP";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"171";22162;"SAD";"ADHS";"keine";"keine";"keine";"keine";"No";"No";"No";"No"
+"172";22163;"SepAD";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"173";22164;"SAD";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"174";22165;"SepAD";"Trennungsangst";"Spezifische Phobie";"keine";"keine";"keine";"Yes";"Yes";"Yes";"No"
+"175";22166;"SP";NA;NA;NA;NA;NA;NA;NA;NA;NA
+"176";22167;"SAD";NA;NA;NA;NA;NA;NA;NA;NA;NA
+"177";22168;"SP";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"178";22169;"SAD";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"179";22170;"SepAD";NA;NA;NA;NA;NA;NA;NA;NA;NA
+"180";22171;"SP";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"181";22172;"SAD";"Spezifische Phobie";"Soziale Angststörung";"Spezifische Phobie";"keine";"keine";"Yes";"Yes";"Yes";"No"
+"182";22173;"SP";NA;NA;NA;NA;NA;NA;NA;NA;NA
+"183";22174;"SAD";"Soziale Angststörung";"keine";"keine";"keine";"keine";"Yes";"Yes";"Yes";"No"
+"184";22175;"SepAD";NA;NA;NA;NA;NA;NA;NA;NA;NA
+"185";22176;"SAD";"Soziale Angststörung";"keine";"keine";"keine";"keine";"Yes";"Yes";"Yes";"No"
+"186";22177;"SepAD";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"187";22178;"SP";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"188";22179;"SAD";"Soziale Angststörung";"Major Depression";"keine";"keine";"keine";"Yes";"Yes";"Yes";"No"
+"189";22180;"SepAD";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"190";22181;"SepAD";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"191";23001;"SAD";NA;NA;NA;NA;NA;NA;NA;NA;NA
+"192";23002;"SepAD";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"193";23003;"SAD";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"194";23004;"SepAD";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"195";23005;"SP";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"196";23006;"SAD";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"197";23007;"SP";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"198";23008;"SepAD";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"199";23009;"SP";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"200";23010;"SepAD";"Trennungsangst";"keine";"keine";"keine";"keine";"Yes";"Yes";"Yes";"No"
+"201";23011;"SAD";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"202";23012;"SepAD";"Spezifische Phobie";"Primäre Insomnie";"keine";"keine";"keine";"No";"Yes";"Yes";"No"
+"203";23013;"SAD";"Primäre Insomnie";"keine";"keine";"keine";"keine";"No";"No";"No";"No"
+"204";23014;"SP";"Spezifische Phobie";"Spezifische Phobie";"keine";"keine";"keine";"Yes";"Yes";"Yes";"No"
+"205";23015;"SepAD";"Enuresis";"keine";"keine";"keine";"keine";"No";"No";"No";"No"
+"206";23016;"SAD";"Major Depression";"PTBS";"keine";"Spezifische Phobie";"Spezifische Phobie";"No";"Yes";"Yes";"No"
+"207";23017;"SAD";NA;NA;NA;NA;NA;NA;NA;NA;NA
+"208";23018;"SepAD";NA;NA;NA;NA;NA;NA;NA;NA;NA
+"209";23019;"SepAD";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"210";23020;"SepAD";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"211";23021;"SAD";NA;NA;NA;NA;NA;NA;NA;NA;NA
+"212";23022;"SepAD";"Spezifische Phobie";"keine";"Enuresis";"keine";"keine";"No";"Yes";"Yes";"No"
+"213";23023;"SP";NA;NA;NA;NA;NA;NA;NA;NA;NA
+"214";23024;"SepAD";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"215";23025;"SepAD";"Soziale Angststörung";"Spezifische Phobie";"keine";"keine";"keine";"No";"Yes";"Yes";"No"
+"216";23026;"SP";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"217";23027;"SepAD";NA;NA;NA;NA;NA;NA;NA;NA;NA
+"218";23028;"SepAD";"Generalisierte Angststörung";"keine";"keine";"keine";"keine";"No";"No";"Yes";"No"
+"219";23029;"SP";"Spezifische Phobie";"keine";"keine";"keine";"keine";"Yes";"Yes";"Yes";"No"
+"220";23030;"SepAD";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"221";23031;"SepAD";NA;NA;NA;NA;NA;NA;NA;NA;NA
+"222";23032;"SP";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"223";23033;"SepAD";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"224";23034;"SepAD";"Spezifische Phobie";"keine";"keine";"keine";"keine";"No";"Yes";"Yes";"No"
+"225";23035;"SepAD";NA;NA;NA;NA;NA;NA;NA;NA;NA
+"226";23036;"SAD";NA;NA;NA;NA;NA;NA;NA;NA;NA
+"227";23037;"SP";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"228";23038;"SAD";NA;NA;NA;NA;NA;NA;NA;NA;NA
+"229";23039;"SP";"Spezifische Phobie";"keine";"keine";"keine";"keine";"Yes";"Yes";"Yes";"No"
+"230";23040;"SAD";"Soziale Angststörung";"keine";"Spezifische Phobie";"keine";"keine";"Yes";"Yes";"Yes";"No"
+"231";23041;"SepAD";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"232";23042;"SAD";"Soziale Angststörung";"keine";"keine";"keine";"keine";"Yes";"Yes";"Yes";"No"
+"233";23043;"SepAD";NA;NA;NA;NA;NA;NA;NA;NA;NA
+"234";23044;"SepAD";NA;NA;NA;NA;NA;NA;NA;NA;NA
+"235";23045;"SP";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"236";23046;"SepAD";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"237";23047;"SAD";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"238";23048;"SP";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"239";23049;"SP";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"240";23050;"SP";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"241";23051;"SP";NA;NA;NA;NA;NA;NA;NA;NA;NA
+"242";23052;"SepAD";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"243";23053;"SP";"Spezifische Phobie";"keine";"keine";"keine";"keine";"Yes";"Yes";"Yes";"No"
+"244";23054;"SP";"Spezifische Phobie";"keine";"keine";"keine";"keine";"Yes";"Yes";"Yes";"No"
+"245";23055;"SAD";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"246";23056;"SP";"Trennungsangst";"Spezifische Phobie";"keine";"keine";"keine";"Yes";"Yes";"Yes";"No"
+"247";23057;"SepAD";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"248";23058;"SepAD";"Generalisierte Angststörung";"Major Depression";"keine";"keine";"keine";"No";"No";"Yes";"No"
+"249";23059;"SAD";NA;NA;NA;NA;NA;NA;NA;NA;NA
+"250";24001;"SepAD";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"251";24002;"SepAD";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"252";24003;"SepAD";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"253";24004;"SepAD";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"254";24005;"SAD";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"255";24006;"SepAD";NA;NA;NA;NA;NA;NA;NA;NA;NA
+"256";24007;"SepAD";NA;NA;NA;NA;NA;NA;NA;NA;NA
+"257";24008;"SP";"Spezifische Phobie";"keine";"keine";"keine";"keine";"Yes";"Yes";"Yes";"No"
+"258";24009;"SepAD";"Trennungsangst";"Soziale Angststörung";"keine";"keine";"keine";"Yes";"Yes";"Yes";"No"
+"259";24010;"SP";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"260";24011;"SP";NA;NA;NA;NA;NA;NA;NA;NA;NA
+"261";24012;"SP";"Trennungsangst";"keine";"keine";"keine";"keine";"No";"Yes";"Yes";"No"
+"262";24013;"SepAD";NA;NA;NA;NA;NA;NA;NA;NA;NA
+"263";24014;"SP";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"264";24015;"SP";"Spezifische Phobie";"keine";"keine";"keine";"keine";"Yes";"Yes";"Yes";"No"
+"265";24017;"SP";"Spezifische Phobie";"keine";"keine";"keine";"keine";"Yes";"Yes";"Yes";"No"
+"266";24018;"SepAD";"Trennungsangst";"keine";"keine";"keine";"keine";"Yes";"Yes";"Yes";"No"
+"267";24019;"SP";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"268";24020;"SP";"Spezifische Phobie";"keine";"keine";"keine";"keine";"Yes";"Yes";"Yes";"No"
+"269";24021;"SepAD";NA;NA;NA;NA;NA;NA;NA;NA;NA
+"270";24022;"SepAD";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"271";25001;"SepAD";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"272";25002;"SepAD";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"273";25003;"SepAD";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"274";25004;"SepAD";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"275";25005;"SepAD";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"276";25006;"SepAD";"Soziale Angststörung";"keine";"keine";"keine";"keine";"No";"Yes";"Yes";"No"
+"277";25007;"SP";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"278";25008;"SP";NA;NA;NA;NA;NA;NA;NA;NA;NA
+"279";25009;"SP";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"280";25010;"SepAD";NA;NA;NA;NA;NA;NA;NA;NA;NA
+"281";25011;"SAD";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"282";25012;"SepAD";"Soziale Angststörung";"keine";"keine";"keine";"keine";"No";"Yes";"Yes";"No"
+"283";25013;"SP";"Spezifische Phobie";"keine";"keine";"keine";"keine";"Yes";"Yes";"Yes";"No"
+"284";25014;"SepAD";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"285";25015;"SP";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"286";25016;"SepAD";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"287";25017;"SP";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"288";25018;"SP";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"289";25019;"SAD";"Soziale Angststörung";"keine";"Major Depression";"keine";"keine";"Yes";"Yes";"Yes";"No"
+"290";25020;"SepAD";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"291";25021;"SP";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"292";25022;"SepAD";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"293";25023;"SepAD";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"294";25024;"SepAD";NA;NA;NA;NA;NA;NA;NA;NA;NA
+"295";25025;"SP";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"296";25026;"SAD";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"297";25027;"SepAD";NA;NA;NA;NA;NA;NA;NA;NA;NA
+"298";25028;"SepAD";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"299";25029;"SepAD";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"300";25030;"SP";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"301";25031;"SP";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"302";25032;"SepAD";"Trennungsangst";"keine";"keine";"keine";"keine";"Yes";"Yes";"Yes";"No"
+"303";25033;"SAD";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"304";25034;"SAD";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"305";25035;"SepAD";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"306";25036;"SAD";NA;NA;NA;NA;NA;NA;NA;NA;NA
+"307";25037;"SP";"Enuresis";"keine";"keine";"keine";"keine";"No";"No";"No";"No"
+"308";25038;"SP";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"309";25039;"SepAD";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"310";25040;"SepAD";NA;NA;NA;NA;NA;NA;NA;NA;NA
+"311";25041;"SepAD";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"312";25042;"SAD";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"313";25043;"SAD";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"314";25044;"SAD";"Soziale Angststörung";"keine";"keine";"keine";"keine";"Yes";"Yes";"Yes";"No"
+"315";25045;"SepAD";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"316";25046;"SepAD";"Trennungsangst";"keine";"keine";"keine";"keine";"Yes";"Yes";"Yes";"No"
+"317";25047;"SP";NA;NA;NA;NA;NA;NA;NA;NA;NA
+"318";25048;"SepAD";NA;NA;NA;NA;NA;NA;NA;NA;NA
+"319";25049;"SepAD";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"320";25050;"SP";"Spezifische Phobie";"keine";"keine";"keine";"keine";"Yes";"Yes";"Yes";"No"
+"321";26001;"SepAD";NA;NA;NA;NA;NA;NA;NA;NA;NA
+"322";26003;"SAD";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"323";26004;"SP";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"324";26005;"SP";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"325";26006;"SAD";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"326";26007;"SP";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"327";26008;"SP";"Spezifische Phobie";"keine";"keine";"keine";"keine";"Yes";"Yes";"Yes";"No"
+"328";26010;"SAD";"Selektiver Mutismus";"keine";"keine";"keine";"keine";"No";"No";"No";"No"
+"329";26011;"SAD";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"330";26012;"SAD";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"331";26013;"SP";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"332";26015;"SP";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"333";26016;"SAD";NA;NA;NA;NA;NA;NA;NA;NA;NA
+"334";26017;"SepAD";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"335";26018;"SepAD";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"336";26019;"SP";"Spezifische Phobie";"Spezifische Phobie";"keine";"keine";"keine";"Yes";"Yes";"Yes";"No"
+"337";26020;"SepAD";"Trennungsangst";"keine";"keine";"keine";"keine";"Yes";"Yes";"Yes";"No"
+"338";26021;"SP";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"339";26022;"SP";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"340";26023;"SP";"Spezifische Phobie";"Panikstörung";"keine";"keine";"keine";"Yes";"Yes";"Yes";"No"
+"341";26024;"SAD";"Soziale Angststörung";"keine";"keine";"keine";"keine";"Yes";"Yes";"Yes";"No"
+"342";26026;"SepAD";"Spezifische Phobie";"keine";"keine";"keine";"keine";"No";"Yes";"Yes";"No"
+"343";26028;"SP";NA;NA;NA;NA;NA;NA;NA;NA;NA
+"344";26029;"SepAD";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"345";26031;"SP";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"346";26032;"SAD";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"347";26033;"SP";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"348";26035;"SAD";NA;NA;NA;NA;NA;NA;NA;NA;NA
+"349";26036;"SepAD";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"350";26037;"SepAD";NA;NA;NA;NA;NA;NA;NA;NA;NA
+"351";26038;"SAD";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"352";26039;"SepAD";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"353";26040;"SAD";NA;NA;NA;NA;NA;NA;NA;NA;NA
+"354";26041;"SAD";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"355";26042;"SAD";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"356";26043;"SepAD";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"357";26044;"SP";NA;NA;NA;NA;NA;NA;NA;NA;NA
+"358";26045;"SAD";NA;NA;NA;NA;NA;NA;NA;NA;NA
+"359";26046;"SP";"Spezifische Phobie";"keine";"Spezifische Phobie";"keine";"keine";"Yes";"Yes";"Yes";"No"
+"360";26047;"SepAD";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"361";26048;"SAD";"Soziale Angststörung";"keine";"keine";"keine";"keine";"Yes";"Yes";"Yes";"No"
+"362";26049;"SepAD";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"363";26050;"SAD";"Soziale Angststörung";"keine";"Spezifische Phobie";"Spezifische Phobie";"Spezifische Phobie";"Yes";"Yes";"Yes";"No"
+"364";26051;"SP";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"365";26052;"SAD";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"366";26053;"SP";"Soziale Angststörung";"keine";"Selektiver Mutismus";"keine";"keine";"No";"Yes";"Yes";"No"
+"367";26054;"SepAD";"Trennungsangst";"keine";"keine";"keine";"keine";"Yes";"Yes";"Yes";"No"
+"368";26055;"SP";"Vorübergehende Ticstörung";"keine";"keine";"keine";"keine";"No";"No";"No";"No"
+"369";26056;"SP";"Spezifische Phobie";"keine";"Spezifische Phobie";"Chronische Mot./Vok.Ticstörung";"keine";"Yes";"Yes";"Yes";"No"
+"370";26057;"SAD";"Primäre Insomnie";"keine";"Spezifische Phobie";"keine";"keine";"No";"Yes";"Yes";"No"
+"371";26058;"SepAD";NA;NA;NA;NA;NA;NA;NA;NA;NA
+"372";26059;"SAD";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"373";26060;"SepAD";NA;NA;NA;NA;NA;NA;NA;NA;NA
+"374";26061;"SAD";"Soziale Angststörung";"keine";"Primäre Insomnie";"keine";"keine";"Yes";"Yes";"Yes";"No"
+"375";26062;"SepAD";"Spezifische Phobie";"keine";"keine";"keine";"keine";"No";"Yes";"Yes";"No"
+"376";26063;"SAD";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"377";26064;"SP";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"378";26065;"SP";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"379";26066;"SAD";"Spezifische Phobie";"keine";"keine";"keine";"keine";"No";"Yes";"Yes";"No"
+"380";26067;"SP";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"381";26068;"SAD";"Spezifische Phobie";"keine";"Spezifische Phobie";"keine";"keine";"No";"Yes";"Yes";"No"
+"382";26069;"SP";"Spezifische Phobie";"keine";"keine";"keine";"keine";"Yes";"Yes";"Yes";"No"
+"383";26070;"SepAD";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"384";26071;"SAD";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"385";26072;"SP";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"386";26073;"SepAD";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"387";26074;"SepAD";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"388";26075;"SAD";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"389";26076;"SP";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
+"390";26077;"SP";NA;NA;NA;NA;NA;NA;NA;NA;NA
+"391";26078;"SP";"keine";"keine";"keine";"keine";"keine";"No";"No";"No";"Yes"
