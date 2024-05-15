@@ -31,8 +31,16 @@ desc = makeResampleDesc(method = "RepCV", folds = 5L, reps = 10L)
 benchmark(learners = log, tasks = task, resamplings = desc, measures = measures)
 
 
+# Predict breastcancer ----------------------------------------------------
+
+breastcancer = read.csv("breastcancer.csv")
+
+breastcancer = BBmisc::dropNamed(breastcancer, drop = "X")
 
 
-
+task = makeClassifTask(target = "diagnosis", positive = "M", data = breastcancer)
+log = makeLearner("classif.logreg", predict.type = "prob")
+desc = makeResampleDesc(method = "RepCV", folds = 5L, reps = 10L)
+benchmark(learners = log, tasks = task, resamplings = desc, measures = measures)
 
 
