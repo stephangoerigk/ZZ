@@ -37,14 +37,14 @@ breastcancer = read.csv("breastcancer.csv")
 
 breastcancer = BBmisc::dropNamed(breastcancer, drop = c("X"))
 
-task = makeClassifTask(target = "diagnosis", positive = "M", data = BBmisc::dropNamed(breastcancer, drop = "id"))
+task = makeClassifTask(id = "breastcancer", target = "diagnosis", positive = "M", data = BBmisc::dropNamed(breastcancer, drop = "id"))
 log = makeLearner("classif.logreg", predict.type = "prob")
 
-r = 500 / 268 
-log = makeOversampleWrapper(log, osw.rate = r)
+r = 268 / 500 
+log = makeUndersampleWrapper(log, usw.rate = r)
 
 desc = makeResampleDesc(method = "RepCV", folds = 5L, reps = 10L)
-bmr = benchmark(learners = log, tasks = pid.task, resamplings = desc, measures = measures)
+bmr = benchmark(learners = log, tasks = task, resamplings = desc, measures = measures)
 
 
 bmr$results$breastcancer$classif.logreg$pred$data
